@@ -13,6 +13,7 @@
 		0F7FDF2516D1CD130066D4CD /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0F7FDF2316D1CD130066D4CD /* InfoPlist.strings */; };
 		0F7FDF2716D1CD130066D4CD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F7FDF2616D1CD130066D4CD /* main.m */; };
 		0F7FDF2B16D1CD140066D4CD /* TestAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F7FDF2A16D1CD140066D4CD /* TestAppDelegate.m */; };
+		0FEB903516D1D45E00D0EE6C /* WuTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FEB903416D1D45E00D0EE6C /* WuTestViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		0F7FDF2816D1CD130066D4CD /* text_43-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "text_43-Prefix.pch"; sourceTree = "<group>"; };
 		0F7FDF2916D1CD140066D4CD /* TestAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestAppDelegate.h; sourceTree = "<group>"; };
 		0F7FDF2A16D1CD140066D4CD /* TestAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestAppDelegate.m; sourceTree = "<group>"; };
+		0FEB903316D1D45E00D0EE6C /* WuTestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WuTestViewController.h; sourceTree = "<group>"; };
+		0FEB903416D1D45E00D0EE6C /* WuTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WuTestViewController.m; sourceTree = "<group>"; };
 		0FF9887B16D1D31400F57FD9 /* lc.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lc.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -75,6 +78,8 @@
 			children = (
 				0F7FDF2916D1CD140066D4CD /* TestAppDelegate.h */,
 				0F7FDF2A16D1CD140066D4CD /* TestAppDelegate.m */,
+				0FEB903316D1D45E00D0EE6C /* WuTestViewController.h */,
+				0FEB903416D1D45E00D0EE6C /* WuTestViewController.m */,
 				0F7FDF2116D1CD130066D4CD /* Supporting Files */,
 				0FF9887B16D1D31400F57FD9 /* lc.h */,
 			);
@@ -157,6 +162,7 @@
 			files = (
 				0F7FDF2716D1CD130066D4CD /* main.m in Sources */,
 				0F7FDF2B16D1CD140066D4CD /* TestAppDelegate.m in Sources */,
+				0FEB903516D1D45E00D0EE6C /* WuTestViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
