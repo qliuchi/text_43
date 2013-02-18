@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F2B9BFB16D1D60C0010BF2B /* YuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F2B9BFA16D1D60C0010BF2B /* YuViewController.m */; };
 		0F7FDF1B16D1CD130066D4CD /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F7FDF1A16D1CD130066D4CD /* UIKit.framework */; };
 		0F7FDF1D16D1CD130066D4CD /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F7FDF1C16D1CD130066D4CD /* Foundation.framework */; };
 		0F7FDF1F16D1CD130066D4CD /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F7FDF1E16D1CD130066D4CD /* CoreGraphics.framework */; };
@@ -17,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0F2B9BF916D1D60C0010BF2B /* YuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YuViewController.h; sourceTree = "<group>"; };
+		0F2B9BFA16D1D60C0010BF2B /* YuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YuViewController.m; sourceTree = "<group>"; };
 		0F7FDF1616D1CD130066D4CD /* text_43.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = text_43.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F7FDF1A16D1CD130066D4CD /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		0F7FDF1C16D1CD130066D4CD /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -49,6 +52,8 @@
 		0F7FDF0B16D1CD130066D4CD = {
 			isa = PBXGroup;
 			children = (
+				0F2B9BF916D1D60C0010BF2B /* YuViewController.h */,
+				0F2B9BFA16D1D60C0010BF2B /* YuViewController.m */,
 				0F7FDF2016D1CD130066D4CD /* text_43 */,
 				0F7FDF1916D1CD130066D4CD /* Frameworks */,
 				0F7FDF1716D1CD130066D4CD /* Products */,
@@ -163,6 +168,7 @@
 				0F7FDF2716D1CD130066D4CD /* main.m in Sources */,
 				0F7FDF2B16D1CD140066D4CD /* TestAppDelegate.m in Sources */,
 				0FEB903516D1D45E00D0EE6C /* WuTestViewController.m in Sources */,
+				0F2B9BFB16D1D60C0010BF2B /* YuViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
