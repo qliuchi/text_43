@@ -26,6 +26,7 @@
 		0F7FDF2816D1CD130066D4CD /* text_43-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "text_43-Prefix.pch"; sourceTree = "<group>"; };
 		0F7FDF2916D1CD140066D4CD /* TestAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestAppDelegate.h; sourceTree = "<group>"; };
 		0F7FDF2A16D1CD140066D4CD /* TestAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestAppDelegate.m; sourceTree = "<group>"; };
+		0FF9887B16D1D31400F57FD9 /* lc.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lc.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 				0F7FDF2916D1CD140066D4CD /* TestAppDelegate.h */,
 				0F7FDF2A16D1CD140066D4CD /* TestAppDelegate.m */,
 				0F7FDF2116D1CD130066D4CD /* Supporting Files */,
+				0FF9887B16D1D31400F57FD9 /* lc.h */,
 			);
 			path = text_43;
 			sourceTree = "<group>";
@@ -260,6 +262,7 @@
 				0F7FDF3016D1CD140066D4CD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
